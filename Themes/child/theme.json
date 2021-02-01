@@ -1,0 +1,8 @@
+{
+  "name": "child",
+  "title": "child",
+  "description": "",
+  "author": "",
+  "version": "1.0.0",
+  "parent": "parent"
+}
